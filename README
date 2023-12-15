@@ -1,1 +1,8 @@
-teste
+MONOREPO 
+API Library: Axios
+Frontend: React, Typescript
+CSS: Styled components & mui.
+State: Redux
+Test library: Jest
+Server: Firebase
+Auth: Google single sign-on
