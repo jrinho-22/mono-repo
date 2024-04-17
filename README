@@ -6,3 +6,12 @@ State: Redux
 Test library: Jest
 Server: Firebase
 Auth: Google single sign-on
+
+commands:  
+cd mono-repo    
+npm i
+cd packages  
+cd web  
+npm start  
+  
+(monorepo will be running on port 4001)
